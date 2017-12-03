@@ -8,8 +8,11 @@
 # Setup if you wanted to add cheats to the list
 
 1. Clone or fork the repo
-- ```sh
+```sh
 git clone https://github.com/AnnahGerletti/Cheat-Sheet.git
 cd Cheat-Sheet
 ```
-- ```sh
+
+2. Open in your favorite text-editor
+
+3. ### Add helpful hints
