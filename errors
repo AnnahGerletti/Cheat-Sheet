@@ -1,0 +1,4 @@
+The errors cheat sheet hints to what things mean.
+
+you a probably running the server in another terminal.
+===Error: listen EADDRINUSE :::3000
