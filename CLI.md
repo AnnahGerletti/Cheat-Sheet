@@ -31,7 +31,15 @@
 
 	man git
 
+### Looking at first few lines in a file in CL
 
+  cat[filename]
+
+### Git help
+
+  git -help
+
+  
 ## MAN commands
 
 ### Quit
