@@ -99,3 +99,8 @@
 ### Look at command history and pipe to grep to search
 
 	history | grep <search <txt>
+
+## from CL can see whats the begining script in the file
+
+	cat <filename> ex. cat package.json 
+	(will show you the first lines of the package.json)
