@@ -1,2 +1,11 @@
 A list of all the libraries we use and what they do.
-Like squlite3, or body-parcer 
+Like squlite3,
+ body-parcer 
+
+ Testing 
+ jest
+ ATDD - codeceptjs w/ nightmare
+ tape
+ supertest - test superagent
+ ava
+ 
