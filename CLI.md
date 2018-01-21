@@ -104,3 +104,7 @@
 
 	cat <filename> ex. cat package.json 
 	(will show you the first lines of the package.json)
+
+## goes to last directory you were in
+
+	cd -
