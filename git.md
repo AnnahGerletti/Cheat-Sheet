@@ -14,19 +14,19 @@ git commit -m ''
   
   - *short-hand* gc -m ' '
 
-git checkout -b newname : creats a new branch with the name given 
+git checkout -b `newBranchName` : creats a new branch with the name given 
   
-  - *short-hand* gco -b `newbranchname>s`
+  - *short-hand* gco -b `newBranchName`
 
-git checkout `branchname>` :changes between branches 
+git checkout `branchName` :changes between branches 
   
-  - *short-hand* gco `branchname`
+  - *short-hand* gco `branchName`
 
-git push origin `branchname`
+git push origin `branchName`
   
   - *short-hand* gp
 
-git pull origin `branchname`
+git pull origin `branchName`
 
 git fetch :shows you what has changed between branches
 
