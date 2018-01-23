@@ -106,5 +106,7 @@
 	(will show you the first lines of the package.json)
 
 ## goes to last directory you were in
-
 	cd -
+
+## how to update ALL system (homebrew) packages (i.e. "zsh", etc.)
+	brew upgrade
