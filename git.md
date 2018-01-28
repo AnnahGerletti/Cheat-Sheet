@@ -28,11 +28,15 @@ git push origin `branchName`
 
 git pull origin `branchName`
 
-git fetch :shows you what has changed between branches
+### shows you what has changed between branches
 
+  git fetch 
 
-git reset - done after git add, pulls what was just added out of staging area 
+### To removed added files from staging area
+  git reset 
 
-## To remove file from git and the file system DANGEROUS
+<done after git add, pulls what was just added out of staging area>
+
+### To remove file from git and the file system DANGEROUS
 <this removes all file from underneath the 'coverage directory'>
   git rm -rf coverage/*
