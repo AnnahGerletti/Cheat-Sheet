@@ -32,3 +32,7 @@ git fetch :shows you what has changed between branches
 
 
 git reset - done after git add, pulls what was just added out of staging area 
+
+## To remove file from git and the file system DANGEROUS
+<this removes all file from underneath the 'coverage directory'>
+  git rm -rf coverage/*

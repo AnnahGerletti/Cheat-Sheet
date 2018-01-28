@@ -40,7 +40,10 @@
   git -help
 
   
-## MAN commands
+## MAN commands (manual) 
+<brings up a manual for the command>
+
+	EX) man grep - will show the manual for grep commands
 
 ### Quit
 
@@ -53,44 +56,6 @@
 ### Repeat previous search (eg. search for "foo" again.) You can do this over and over
 
 	/
-
-## VI commands
-
-### Quit. Press Esc first if needed
-
-	:q
-
-### Forcefully quit, ignoring changes. Press Esc first if needed
-
-	:q!
-
-### Write, don't quit. Press Esc first if needed
-
-	:w
-
-### Write and quit. Press Esc first if needed
-
-	:wq
-
-### Insert mode to start writing text
-
-	i
-
-### Append mode (like insert, but goes over one character)
-
-	a
-
-### Get out of insert mode
-
-	(Just press Esc key)
-
-### Change the word when you're over in navigation  mode
-
-	cw
-
-### Find text - replace "foo". Press Esc first if needed
-
-	/foo
 
 ### Look at command history
 
@@ -110,3 +75,10 @@
 
 ## how to update ALL system (homebrew) packages (i.e. "zsh", etc.)
 	brew upgrade
+
+## how to SEARCH computer for a file
+
+	find . | grep -i can-you-make-it
+
+<this says find everything from "where you are" and pipe it to grep with insesitive case search with `file name`>
+
