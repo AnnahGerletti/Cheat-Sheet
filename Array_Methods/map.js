@@ -14,7 +14,7 @@ var barn = animal.map(function (spp, index) {
   }
   console.log(animal)
 })
-console.log(barn)
+console.log(barn) 
 
 var obj = [
   {key: 1, value: 'red'},
