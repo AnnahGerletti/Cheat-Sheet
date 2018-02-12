@@ -1,8 +1,8 @@
 # Cheat-Sheet
 
-- Here are helpful hints for doing simple things with in code.
+- Here are helpful hints for doing simple things within code.
 - Lots of notes taken durning the bootcamp of EDA.
-- Help with high-order-fuctions
+- Help with high-order-functions
 - Constantly growing and being added to.
 
 # Setup if you wanted to add cheats to the list
