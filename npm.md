@@ -10,3 +10,4 @@
 
 ## how to generally update, from npm
 - npm update [package name] --save-dev
+- npm update -g (will update all npm dependencies in package.json)
