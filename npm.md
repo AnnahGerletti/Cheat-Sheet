@@ -1,4 +1,4 @@
-# all the below are within a code repo
+# Interacting with npm dependencies
 
 ## how to update a "devdependency" of a project (both do same thing):
 npm install -D packagename
