@@ -1,6 +1,6 @@
 # Interacting with npm dependencies
 
-## how to update a "devdependency" of a project (both do same thing):
+## how to update a "devdependency" and "dependency" of a project:
 npm install -D packagename
 npm install packagename --save-dev (for dev-dependencies, like test frameworks development dependencies)
 npm install packagename --save
